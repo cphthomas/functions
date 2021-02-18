@@ -3,7 +3,7 @@ title: Netlify Functions
 permalink: /
 ---
 
-# Netlify Functions
+# Netlify Functions DEMO
 
 ## The problem
 
